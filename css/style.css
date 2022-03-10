@@ -1,0 +1,70 @@
+.head {
+  font-size: 40px;
+  font-weight: bold;
+  padding: 20px;
+  background-color: rgb(145, 142, 142);
+  border: 4px solid black;
+}
+
+
+.menu {
+    text-align: center;
+    font-weight: 750;
+    padding-top: 10px;
+    padding-bottom: 35px;
+}
+
+.item {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.lorem {
+    font-size: 15px;
+    font-weight: 550;
+}
+
+.item, .lorem {
+    border: 0px solid black;
+    background-color: rgb(182, 178, 178);
+    padding: 10px;
+}
+
+.item1 {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.lorem1 {
+    font-size: 15px;
+    font-weight: 550;
+}
+
+.item1, .lorem1 {
+    border: 0px solid black;
+    background-color: rgb(182, 178, 178);
+    padding: 10px;
+}
+
+.item2 {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.lorem2 {
+    font-size: 15px;
+    font-weight: 550;
+}
+
+.item2, .lorem2 {
+    border: 0px solid black;
+    background-color: rgb(182, 178, 178);
+    padding: 10px;
+}
+
+.dropdown {
+    float: right;
+}
